@@ -18,4 +18,16 @@ public class Car {
 
 	}
 	
+	public void bmw() {
+	
+	}
+	
+	public void benz() {
+
+	}
+	
+	public void volvo() {
+
+	}
+	
 }
